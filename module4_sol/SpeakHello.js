@@ -7,7 +7,7 @@
   window.helloSpeaker = helloSpeaker;
 
 })(window);
-=======
+
 var helloSpeaker = {
     speakWord : "Hello ",
     speak : function(name) {
